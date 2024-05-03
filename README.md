@@ -1,3 +1,8 @@
+Synpopsis
+[WeSmile_synopsis.pdf](https://github.com/Harshjethwa2003/Dental-Clinic-Website/files/15200632/WeSmile_synopsis.pdf)
+
+
+
 Front Page 
 ![image](https://github.com/Harshjethwa2003/Dental-Clinic-Website/assets/139225446/ce9fde00-21c4-4f22-97bd-dc66b72af1bf)
 ![image](https://github.com/Harshjethwa2003/Dental-Clinic-Website/assets/139225446/a1b888a7-0983-48f7-9a12-478a4aa2dab5)
@@ -22,13 +27,13 @@ Patient's Page
 Patient's Can Select Doctors
 ![image](https://github.com/Harshjethwa2003/Dental-Clinic-Website/assets/139225446/b7f44165-b854-4bb9-ab57-d09b5b71f6fd)
 
-Patients Can View Prescription Upload By Doctors
+Patients Can View Prescription's Upload By Doctors
 ![image](https://github.com/Harshjethwa2003/Dental-Clinic-Website/assets/139225446/d40e5eb0-72db-46a9-bae8-72062b09e104)
 
 Doctor's Page
 ![image](https://github.com/Harshjethwa2003/Dental-Clinic-Website/assets/139225446/360ce005-2fcd-469b-a38f-d85d3f6a2297)
 
-Doctor's Can view Appointment Aprroved By Admins
+Doctor's Can view Appointment's Approved By Admins
 ![image](https://github.com/Harshjethwa2003/Dental-Clinic-Website/assets/139225446/e79ef69f-ebed-480e-88ac-eec8d725c308)
 
 Doctor's Can Upload Prescriptions
