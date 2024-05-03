@@ -18,12 +18,20 @@ Search Doctor Page
 
 Patient's Page 
 ![image](https://github.com/Harshjethwa2003/Dental-Clinic-Website/assets/139225446/967e6b6c-263d-42c3-b77c-12775082c524)
+
+Patient's Can Select Doctors
 ![image](https://github.com/Harshjethwa2003/Dental-Clinic-Website/assets/139225446/b7f44165-b854-4bb9-ab57-d09b5b71f6fd)
+
+Patients Can View Prescription Upload By Doctors
 ![image](https://github.com/Harshjethwa2003/Dental-Clinic-Website/assets/139225446/d40e5eb0-72db-46a9-bae8-72062b09e104)
 
 Doctor's Page
 ![image](https://github.com/Harshjethwa2003/Dental-Clinic-Website/assets/139225446/360ce005-2fcd-469b-a38f-d85d3f6a2297)
+
+Doctor's Can view Appointment Aprroved By Admins
 ![image](https://github.com/Harshjethwa2003/Dental-Clinic-Website/assets/139225446/e79ef69f-ebed-480e-88ac-eec8d725c308)
+
+Doctor's Can Upload Prescriptions
 ![image](https://github.com/Harshjethwa2003/Dental-Clinic-Website/assets/139225446/b40f04f4-98e1-4478-8b68-72c8b2729ac9)
 
 Admin's Page
