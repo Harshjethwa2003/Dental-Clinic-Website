@@ -1,4 +1,4 @@
-Synpopsis
+Synopsis
 [WeSmile_synopsis.pdf](https://github.com/Harshjethwa2003/Dental-Clinic-Website/files/15200632/WeSmile_synopsis.pdf)
 
 
