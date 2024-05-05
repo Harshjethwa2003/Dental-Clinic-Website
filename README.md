@@ -27,7 +27,7 @@ Patient's Page
 Patient's Can Select Doctors
 ![image](https://github.com/Harshjethwa2003/Dental-Clinic-Website/assets/139225446/b7f44165-b854-4bb9-ab57-d09b5b71f6fd)
 
-Patients Can View Prescription's Upload By Doctors
+Patients Can View Prescription's Uploaded By Doctors
 ![image](https://github.com/Harshjethwa2003/Dental-Clinic-Website/assets/139225446/d40e5eb0-72db-46a9-bae8-72062b09e104)
 
 Doctor's Page
@@ -55,7 +55,7 @@ Admins can also Add Patients's
 Admins Can also Add Clinic
 ![image](https://github.com/Harshjethwa2003/Dental-Clinic-Website/assets/139225446/58428ded-549e-4148-b16a-50716c512b4d)
 
-Admins Can Add Manage User Queries and Can manage Post
+Admins Can Add also Manage User Queries and Can manage Post
 ![image](https://github.com/Harshjethwa2003/Dental-Clinic-Website/assets/139225446/e0ee5012-8516-451a-801b-479e980069a6)
 
 
